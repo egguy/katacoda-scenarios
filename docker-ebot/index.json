@@ -5,8 +5,14 @@
   "time": "5 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Download eBot's docker files",
       "text": "step1.md"
+    },{
+      "title": "Step 2 - Configure docker",
+      "text": "step2.md"
+    },{
+      "title": "Step 3 - Bring up the docker env",
+      "text": "step2.md"
     }],
     "intro": {
       "text": "intro.md",

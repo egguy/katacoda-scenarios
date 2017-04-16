@@ -1,4 +1,4 @@
-This is your first step.
+The first step is to download and edit the docker compose file for eBot.
 
 ## Task
 
@@ -18,4 +18,5 @@ edit the *docker-compose.yml* file.
 
 `vim docker-compose.yml`{{execute}}
 
-to connect: https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
+
+

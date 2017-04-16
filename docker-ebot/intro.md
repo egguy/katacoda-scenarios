@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+In this demo we will learn how to create an eBot with docker.
